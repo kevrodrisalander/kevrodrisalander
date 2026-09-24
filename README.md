@@ -43,13 +43,13 @@
 
 <!-- Fila 1: Estadísticas generales y Lenguajes más usados (Lado a lado) -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=kevrodrisalander&show_icons=true&bg_color=00000000&title_color=C5B277&text_color=255B4E&icon_color=255B4E&border_color=255B4E" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kevrodrisalander&layout=compact&bg_color=00000000&title_color=C5B277&text_color=255B4E&border_color=255B4E&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=kevrodrisalander&show_icons=true&bg_color=00000000&title_color=D4AF37&text_color=1A1A1A&icon_color=1A1A1A&border_color=1A1A1A" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kevrodrisalander&layout=compact&bg_color=00000000&title_color=C5B277&text_color=255B4E&border_color=1A1A1A&hide_border=false" />
 </p>
 
 <!-- Fila 2: Racha de días de contribución (Streak Stats) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kevrodrisalander&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=2C5E3B&currStreakNum=2C5E3B&sideNums=2C5E3B&dates=2C5E3B&border=2C5E3B" />
+  <img src="https://streak-stats.demolab.com?user=kevrodrisalander&background=00000000&ring=D4AF37&fire=B02A37&currStreakLabel=1A1A1A&sideLabels=1A1A1A&currStreakNum=1A1A1A&sideNums=1A1A1A&dates=1A1A1A&border=1A1A1A" />
 </p>
 
 <!-- Fila 3: Gráfico general de actividad en GitHub -->
