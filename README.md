@@ -41,23 +41,20 @@
 
 # 📈 GitHub Stats
 
+<!-- Fila 1: Estadísticas generales y Lenguajes más usados (Lado a lado) -->
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.shion.dev/api?username=kevrodrisalander&show_icons=true&bg_color=00000000&title_color=C5B277&text_color=255B4E&icon_color=255B4E&border_color=255B4E"
-  />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=kevrodrisalander&show_icons=true&bg_color=00000000&title_color=C5B277&text_color=255B4E&icon_color=255B4E&border_color=255B4E" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kevrodrisalander&layout=compact&bg_color=00000000&title_color=C5B277&text_color=255B4E&border_color=255B4E&hide_border=false" />
 </p>
 
+<!-- Fila 2: Racha de días de contribución (Streak Stats) -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kevrodrisalander&background=00000000&ring=C5B277&fire=611232&currStreakLabel=C5B277&sideLabels=255B4E&currStreakNum=255B4E&sideNums=255B4E&dates=255B4E&border=255B4E"
-  />
+  <img src="https://streak-stats.demolab.com?user=kevrodrisalander&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=2C5E3B&currStreakNum=2C5E3B&sideNums=2C5E3B&dates=2C5E3B&border=2C5E3B" />
 </p>
 
-
----
+<!-- Fila 3: Gráfico general de actividad en GitHub -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevrodrisalander&style=for-the-badge&color=green" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevrodrisalander&theme=solarized_light" />
 </p>
 
 # ⭐ Proyectos Destacados
